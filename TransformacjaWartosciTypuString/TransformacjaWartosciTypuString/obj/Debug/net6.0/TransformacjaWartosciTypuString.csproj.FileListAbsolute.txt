@@ -1,0 +1,15 @@
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\bin\Debug\net6.0\TransformacjaWartosciTypuString.exe
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\bin\Debug\net6.0\TransformacjaWartosciTypuString.deps.json
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\bin\Debug\net6.0\TransformacjaWartosciTypuString.runtimeconfig.json
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\bin\Debug\net6.0\TransformacjaWartosciTypuString.dll
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\bin\Debug\net6.0\TransformacjaWartosciTypuString.pdb
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\obj\Debug\net6.0\TransformacjaWartosciTypuString.csproj.AssemblyReference.cache
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\obj\Debug\net6.0\TransformacjaWartosciTypuString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\obj\Debug\net6.0\TransformacjaWartosciTypuString.AssemblyInfoInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\obj\Debug\net6.0\TransformacjaWartosciTypuString.AssemblyInfo.cs
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\obj\Debug\net6.0\TransformacjaWartosciTypuString.csproj.CoreCompileInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\obj\Debug\net6.0\TransformacjaWartosciTypuString.dll
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\obj\Debug\net6.0\refint\TransformacjaWartosciTypuString.dll
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\obj\Debug\net6.0\TransformacjaWartosciTypuString.pdb
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\obj\Debug\net6.0\TransformacjaWartosciTypuString.genruntimeconfig.cache
+C:\Users\Wiktro Kucharek\source\repos\TransformacjaWartosciTypuString\TransformacjaWartosciTypuString\obj\Debug\net6.0\ref\TransformacjaWartosciTypuString.dll
